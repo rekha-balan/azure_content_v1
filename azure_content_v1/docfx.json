@@ -3,34 +3,31 @@
     "content": [
       {
         "files": [
-          "**/*.md"
+          "articles/active-directory/**/*.md"
         ],
         "exclude": [
           "**/obj/**"
-        ],
-        "src": null,
-        "dest": null
+        ]
       }
     ],
     "resource": [
       {
         "files": [
+          "**/*.md",
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+          "**/*.gif",
+          "_themes/**"
         ],
         "exclude": [
-          "**/obj/**"
-        ],
-        "src": null,
-        "dest": null
+          "**/obj/**",
+          "articles/active-directory/**/*.md",
+          "_themes/DocPacker/**"
+        ]
       }
     ],
-    "overwrite": [],
-    "externalReference": [],
-    "globalMetadata": {},
-    "fileMetadata": {},
     "template": [
-      "op.html"
+      "docs.html"
     ],
     "dest": "azure_content_v1"
   }

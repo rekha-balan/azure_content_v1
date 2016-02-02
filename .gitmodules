@@ -1,0 +1,4 @@
+[submodule "_themes"]
+	path = azure_content_v1/_themes
+	url = https://github.com/JialinXin/DocsThemes
+	branch = live

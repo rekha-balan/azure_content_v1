@@ -1,5 +1,5 @@
 {
-  "build_entry_point": "op.ps1",
+  "build_entry_point": "docs.ps1",
   "docsets_to_publish": [
     {
       "docset_name": "azure_content_v1",
