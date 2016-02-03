@@ -1,0 +1,12 @@
+# active-directory-domain-services
+## [active-directory-ds-faqs.md](active-directory-ds-faqs.md)
+## [active-directory-ds-features.md](active-directory-ds-features.md)
+## [active-directory-ds-getting-started-dns.md](active-directory-ds-getting-started-dns.md)
+## [active-directory-ds-getting-started-enableaadds.md](active-directory-ds-getting-started-enableaadds.md)
+## [active-directory-ds-getting-started-password-sync.md](active-directory-ds-getting-started-password-sync.md)
+## [active-directory-ds-getting-started-vnet.md](active-directory-ds-getting-started-vnet.md)
+## [active-directory-ds-getting-started.md](active-directory-ds-getting-started.md)
+## [active-directory-ds-overview.md](active-directory-ds-overview.md)
+## [active-directory-ds-regions.md](active-directory-ds-regions.md)
+## [active-directory-ds-scenarios.md](active-directory-ds-scenarios.md)
+## [active-directory-ds-troubleshooting.md](active-directory-ds-troubleshooting.md)

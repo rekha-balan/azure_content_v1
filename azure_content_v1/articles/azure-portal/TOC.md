@@ -1,0 +1,13 @@
+# azure-portal
+## [insights-create-web-tests.md](insights-create-web-tests.md)
+## [insights-debugging-with-events.md](insights-debugging-with-events.md)
+## [insights-how-to-customize-monitoring.md](insights-how-to-customize-monitoring.md)
+## [insights-how-to-scale.md](insights-how-to-scale.md)
+## [insights-how-to-use-diagnostics.md](insights-how-to-use-diagnostics.md)
+## [insights-perf-analytics.md](insights-perf-analytics.md)
+## [insights-receive-alert-notifications.md](insights-receive-alert-notifications.md)
+## [insights-service-health.md](insights-service-health.md)
+## [insights-usage-analytics.md](insights-usage-analytics.md)
+## [insights-webhooks-alerts.md](insights-webhooks-alerts.md)
+## [resource-group-portal-linked-resources.md](resource-group-portal-linked-resources.md)
+## [resource-group-portal.md](resource-group-portal.md)
