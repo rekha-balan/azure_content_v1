@@ -14,5 +14,6 @@
       }
     }
   ],
-  "notification_subscribers": []
+  "notification_subscribers": [],
+  "package_version": "1.6-alpha-029-gba8b26f"
 }
