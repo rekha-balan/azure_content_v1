@@ -1,19 +1,10 @@
 {
   "build_entry_point": "docs.ps1",
-  "docsets_to_publish": [
-    {
-      "docset_name": "azure_content_v1",
-      "build_source_folder": null,
-      "build_output_subfolder": "azure_content_v1",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content"
-      }
-    }
-  ],
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false,
+  "package_version": "latest-prerelease",
+  "docsets_to_publish": [],
   "notification_subscribers": [],
-  "package_version": "latest-prerelease"
+  "skip_source_output_uploading": false,
+  "need_generate_pdf_url_template": false
 }
